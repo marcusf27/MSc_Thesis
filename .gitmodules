@@ -1,0 +1,3 @@
+[submodule "Mill-Android"]
+	path = Mill-Android
+	url = .\\Mill-Android\\
