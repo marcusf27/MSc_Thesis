@@ -1,0 +1,20 @@
+
+	{	"timestamp": "1595465673",
+		"used_cpu": "9.35/9.38/9.5",
+		"used_mem_pss": "535166", 
+		"used_mem_kernel": "95228", 
+		"nr_processes": "0", 
+		"ischarging": "1", 
+		"battery_level": "100", 
+		"battery_temperature": "363",
+		"keyboard": "com.google.android.inputmethod.latin/com.android.inputmethod.latin.LatinIME", 
+		"battery_voltage": "4331",
+		"screen_state": "TRUE", 
+		"screen_brightness": "1", 
+		"wifi": "FALSE", 
+		"bluetooth": "FALSE", 
+		"hotspot": "FALSE", 
+		"nfc": "FALSE", 
+		"gps": "FALSE", 
+		"speaker": "FALSE", 
+	}
